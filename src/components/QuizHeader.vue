@@ -12,7 +12,6 @@ const {questionStatus} = defineProps(["questionStatus"])
     <h4>Question {{ questionStatus }}</h4>
     <div class="bar">
       <div class="completion">
-
       </div>
     </div>
   </header>
